@@ -1,4 +1,4 @@
-mport requests
+iimport requests
 from bs4 import BeautifulSoup
 import csv
 
